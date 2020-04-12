@@ -7,3 +7,5 @@ master
 123
 test-branch
 test-branch-
+----------------------
+featureb
